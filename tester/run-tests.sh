@@ -39,6 +39,7 @@ run_test () {
     return 
 }
 
+
 print_error_message () {
     local testnum=$1
     local contrunning=$2
